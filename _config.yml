@@ -1,14 +1,5 @@
 title: Gravidade Zero
 remote_theme: jekyll/minima@master
-author: Carol the Astronaut
-instagram_username: caroltheastronaut
-plugins:
-  - jekyll-feed
-  - jekyll-remote-theme
-
-
-title: Gravidade Zero
-remote_theme: jekyll/minima@master
 author:
   name: Carol the Astronaut
 instagram_username: caroltheastronaut
