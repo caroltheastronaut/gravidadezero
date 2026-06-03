@@ -18,6 +18,7 @@ minima:
       url: "https://www.caroltheastronaut.com"
 url: https://caroltheastronaut.github.io
 permalink: /:title/
+show_excerpts: true
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
