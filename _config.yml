@@ -8,7 +8,7 @@ minima:
       icon: instagram
       url: "https://www.instagram.com/caroltheastronaut"
     - title: Website
-      icon: globe
+      icon: link
       url: "https://www.caroltheastronaut.com"
 url: https://caroltheastronaut.github.io/gravidadezero
 plugins:
