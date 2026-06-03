@@ -5,3 +5,4 @@ show_excerpts: true
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+instagram_username: @caroltheastronaut
