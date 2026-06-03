@@ -1,13 +1,6 @@
 title: Gravidade Zero
 theme: minima
-
-author:
-  name: Carol the Astronaut
-
-minima:
-  skin: classic
-
+author: Carol the Astronaut
 show_excerpts: true
-
 plugins:
   - jekyll-feed
