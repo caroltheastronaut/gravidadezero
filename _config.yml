@@ -5,6 +5,7 @@ author:
 
 title: Gravidade Zero
 remote_theme: jekyll/minima@master
+baseurl: /gravidadezero
 author:
   name: Carol the Astronaut
 minima:
