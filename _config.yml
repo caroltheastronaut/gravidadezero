@@ -5,3 +5,14 @@ instagram_username: caroltheastronaut
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+
+
+title: Gravidade Zero
+remote_theme: jekyll/minima@master
+author:
+  name: Carol the Astronaut
+instagram_username: caroltheastronaut
+url: https://www.caroltheastronaut.com
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
