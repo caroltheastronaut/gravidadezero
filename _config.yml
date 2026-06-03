@@ -1,6 +1,7 @@
 title: Gravidade Zero
-theme: minima
+remote_theme: jekyll/minima
 author: Carol the Astronaut
 show_excerpts: true
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
