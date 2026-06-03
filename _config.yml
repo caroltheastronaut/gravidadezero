@@ -16,6 +16,7 @@ minima:
       icon: linktree
       url: "https://www.caroltheastronaut.com"
 url: https://caroltheastronaut.github.io
+permalink: /:title/
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
