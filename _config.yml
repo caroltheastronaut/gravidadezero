@@ -8,6 +8,7 @@ remote_theme: jekyll/minima@master
 author:
   name: Carol the Astronaut
 minima:
+  date_format: "%d/%m/%Y"
   social_links:
     - title: Instagram
       icon: instagram
