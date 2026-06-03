@@ -6,6 +6,8 @@ date: 2026-04-14 10:30:00 +0000
 
 Escrever é um remédio. Não sei se o melhor, mas é certamente uma mezinha caseira que aplico na mente em diferentes fases da vida.
 
+![Ilustração de Carol the Astronaut](/assets/images/porque-escrevo.jpeg)
+
 Acho que comecei a escrever no início da adolescência sob influência da minha avó materna, uma poetisa autodidata de uma das terras onde cresci.
 
 Gostava sobretudo de escrever coisas que soassem bonitas, curtas e em verso que mostrava orgulhosamente aos adultos que me educaram quando a vergonha do que punha no papel não tomava conta da minha pele. Sobretudo à tal avó. Sabia-a com sensibilidade para o que lhe levava a ler. Falava sobre o mar, às vezes dos amigos, do vento mensageiro, mas sobretudo das injustiças mundiais do tempo então presente.
