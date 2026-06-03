@@ -7,13 +7,10 @@ minima:
     - title: Instagram
       icon: instagram
       url: "https://www.instagram.com/caroltheastronaut"
-    - title: Site
-      icon: link
+    - title: Website
+      icon: globe
       url: "https://www.caroltheastronaut.com"
-    - title: RSS
-      icon: rss
-      url: "/feed.xml"
-      url: https://caroltheastronaut.github.io/gravidadezero
+url: https://caroltheastronaut.github.io/gravidadezero
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
