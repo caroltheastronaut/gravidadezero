@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Porque escrevo"
-date: 2026-04-14 12:00:00 +0000
+date: 2026-04-14 10:30:00 +0000
 ---
 
 Escrever é um remédio. Não sei se o melhor, mas é certamente uma mezinha caseira que aplico na mente em diferentes fases da vida.
