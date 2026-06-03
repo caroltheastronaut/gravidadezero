@@ -2,8 +2,18 @@ title: Gravidade Zero
 remote_theme: jekyll/minima@master
 author:
   name: Carol the Astronaut
-instagram_username: caroltheastronaut
-url: https://www.caroltheastronaut.com
+minima:
+  social_links:
+    - title: Instagram
+      icon: instagram
+      url: "https://www.instagram.com/caroltheastronaut"
+    - title: Site
+      icon: link
+      url: "https://www.caroltheastronaut.com"
+    - title: RSS
+      icon: rss
+      url: "/feed.xml"
+      url: https://caroltheastronaut.github.io/gravidadezero
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
