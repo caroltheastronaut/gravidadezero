@@ -13,7 +13,6 @@ minima:
     - title: Website
       icon: linktree
       url: "https://www.caroltheastronaut.com"
-url: https://caroltheastronaut.github.io
 permalink: /:title/
 show_excerpts: true
 plugins:
