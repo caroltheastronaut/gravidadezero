@@ -5,7 +5,7 @@ url: https://gravidadezero.caroltheastronaut.com
 author:
   name: Carol the Astronaut
 minima:
-  skin: solarized-dark
+  skin: classic
   date_format: "%d/%m/%Y"
   social_links:
     - title: Instagram
