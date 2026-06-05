@@ -3,6 +3,7 @@ layout: post
 title: "Lá estão elas"
 date: 2026-05-14 10:30:00 +0000
 image: /assets/images/la-estao-elas.jpg
+categories: cronica
 ---
 
 Uma das coisas boas de envelhecer, é que se amontoam histórias cá dentro à espera de serem contadas. Esta é uma delas.
