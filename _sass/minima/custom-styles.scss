@@ -17,6 +17,11 @@ h1, h2, h3, h4, h5, h6,
   font-family: 'Playfair Display', serif;
 }
 
+.post-content p:first-of-type {
+  font-size: 1.2em;
+  color: #828282;
+}
+
 img + em {
   display: block;
   text-align: center;
