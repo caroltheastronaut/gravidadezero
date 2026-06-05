@@ -1,2 +1,4 @@
-# gravidadezero
-Gravidade zero é a ausência total ou quase total da sensação de peso. (in wikipedia) É também o motivo porque escrevo.
+# Gravidade Zero
+Blog de escrita criativa construído com Jekyll e o tema Minima, alojado no GitHub Pages.
+
+**URL:** https://gravidadezero.caroltheastronaut.com
