@@ -1,3 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=Source+Serif+4:ital,wght@0,400;0,600;1,400&display=swap');
+
+* {
+  font-family: 'Source Serif 4', serif;
+}
+
+h1, h2, h3, h4, h5, h6,
+.site-title,
+.post-title,
+.post-link {
+  font-family: 'Playfair Display', serif;
+}
+
+.site-nav,
+.page-link {
+  font-family: 'Playfair Display', serif;
+}
+
 img + em {
   display: block;
   text-align: center;
