@@ -7,6 +7,7 @@ date: 2026-04-14 10:30:00 +0000
 Escrever é um remédio. Não sei se o melhor, mas é certamente uma mezinha caseira que aplico na mente em diferentes fases da vida.
 
 ![Ilustração de Carol the Astronaut](../assets/images/porque-escrevo.jpg)
+*Ilustração de Carol the Astronaut*
 
 Acho que comecei a escrever no início da adolescência sob influência da minha avó materna, uma poetisa autodidata de uma das terras onde cresci.
 
