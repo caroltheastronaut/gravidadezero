@@ -33,3 +33,10 @@ img + em {
   color: #828282;
   margin-top: 0.5em;
 }
+
+img {
+  pointer-events: none;
+  user-select: none;
+  -webkit-user-select: none;
+  -webkit-touch-callout: none;
+}
